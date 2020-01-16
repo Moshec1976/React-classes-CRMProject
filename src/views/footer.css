@@ -1,0 +1,11 @@
+.bottom{
+    background-color: #B2C0CD;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    height: 25px;
+}

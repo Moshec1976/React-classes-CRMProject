@@ -1,0 +1,18 @@
+.username{
+    height: 35px;
+    width: 150px;
+    direction: rtl;
+    font-size: 0.7rem;
+    margin-top: 15px;
+}
+
+.submitBtn{
+    height: 35px;
+    width: 90px;
+    margin-top: 25px;
+    
+}
+
+.loginForm{
+    padding-bottom: 20px;
+}

@@ -1,0 +1,17 @@
+.ClientName{
+    font-size: 1rem;
+    direction: rtl;
+    color: blue;
+    margin-right: 40px;
+}
+
+
+.ClientInfo{
+    font-size: 0.9rem;
+    margin-right: 30px;
+}
+
+.ClientBox{
+    border: 1px solid gray;
+    text-align: right;
+}

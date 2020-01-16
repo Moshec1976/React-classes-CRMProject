@@ -1,0 +1,19 @@
+.nav{
+    font-size: 0.8rem;
+    display: flex;
+    direction: rtl;
+    background-color: #B2C0CD;
+    
+}
+
+.nav a{
+    text-decoration: none;
+}
+
+.nav ul{
+    list-style: none;
+}
+
+.MenuItem{
+    margin-left: 20px;
+}
