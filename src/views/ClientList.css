@@ -1,17 +1,17 @@
-.ClientName{
-    font-size: 1rem;
-    direction: rtl;
-    color: blue;
-    margin-right: 40px;
-}
 
 
-.ClientInfo{
-    font-size: 0.9rem;
-    margin-right: 30px;
-}
-
-.ClientBox{
+.clientCard{
     border: 1px solid gray;
     text-align: right;
+    margin-right: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    width: 20%;
+    direction: rtl;
+    margin-top: 10px;
+}
+
+.clientCardCOntainer{
+    direction: rtl;
+    display: flex;
 }
